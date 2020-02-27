@@ -11,7 +11,7 @@
 
 ### 1) Have a GitHub account
 
-If you don't have a GitHub account already, head over to https://github.com/ and create one for free!
+If you don't have a GitHub account already, head over to https://github.com/ and create one for free!!
 
 ### 2) Have a Terraform Cloud account
 
